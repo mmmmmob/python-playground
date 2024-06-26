@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+python-bootcamp/
 .Python
 build/
 develop-eggs/
